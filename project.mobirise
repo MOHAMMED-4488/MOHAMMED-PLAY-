@@ -50,14 +50,14 @@
           "type": "color",
           "title": "Background",
           "groupName": "colors",
-          "default": "#ffffff"
+         "default": "#000000"
         },
         {
           "var": "primaryColor",
           "type": "color",
           "title": "Primary",
           "groupName": "colors",
-          "default": "#9fe870"
+          "default": "#ff5733"
         },
         {
           "type": "colors",
@@ -70,7 +70,7 @@
             },
             {
               "var": "successColor",
-              "default": "#3a341c"
+              "default": "#ff0000"
             },
             {
               "var": "infoColor",
